@@ -5,4 +5,4 @@ I'm a software developer with experience in various programming languages and fr
 ### Technologies and Tools
 - **Programming Languages:** Python, JavaScript
 - **Frameworks and Libraries:** React, Django, Spring Boot, TensorFlow
-- **Tools:** Docker, Kubernetes, Git, Jenkins
+- **Tools:** Docker, Kubernetes, Git
